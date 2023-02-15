@@ -1,0 +1,41 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+    & :last-child {
+        margin-bottom: 0;
+    }
+}
+
+.text {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.explanation {
+    font-size: 12px;
+
+    &::before {
+        content: "*";
+        padding-right: 5px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .content {
+        align-items: center;
+        align-self: flex-end;
+        text-align: center;
+    }
+
+    .text {
+        font-size: 18px;
+    }
+}
+
+@media (min-width: 1920px) {
+    .text {
+        font-size: 22px;
+    }
+}

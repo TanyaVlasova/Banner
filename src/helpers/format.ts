@@ -1,0 +1,1 @@
+export const format = (value: number) => `${value}`.padStart(2, '0');

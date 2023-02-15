@@ -1,0 +1,29 @@
+.timer {
+    margin-bottom: 5px;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+
+@media (min-width: 1024px) {
+    .timer {
+        margin-bottom: 10px;
+        font-size: 35px;
+        
+        & :nth-child(odd) {
+            width: 1.4em;
+            display: inline-block;
+        }
+
+        & :nth-child(even) {
+            width: 0.5em;
+            display: inline-block;
+        }
+    }
+}
+
+@media (min-width: 1920px) {
+    .timer {
+        font-size: 44px;
+    }   
+}
