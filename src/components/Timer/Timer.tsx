@@ -21,6 +21,7 @@ const Timer = (props: { time: number }) => {
                 clearInterval(interval);
             }
         }, 1000);
+        return () => clearInterval(interval);
     })
 
     return (
