@@ -2,11 +2,11 @@ import style from './Content2.module.scss';
 import Timer from '../Timer/Timer';
 
 
-const Content2 = (props: {time: number}) => {
+const Content2 = () => {
     return (
         <div className={style.content}>
             <span className={style.text}>До конца акции</span>
-            <Timer time={props.time}/>
+            <Timer />
             <p className={style.explanation}>Скидка не суммируется с другими промокодами и спецпредложениями.</p>
         </div>
     )
