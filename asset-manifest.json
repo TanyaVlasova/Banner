@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Banner/static/css/main.ced1e12c.css",
+    "main.js": "/Banner/static/js/main.c9ade469.js",
+    "static/media/image5.png": "/Banner/static/media/image5.d5b51cde06efa2a30484.png",
+    "static/media/image4.png": "/Banner/static/media/image4.d2ca97dc5a7590a9f110.png",
+    "static/media/GT-WalsheimPro-Light.ttf": "/Banner/static/media/GT-WalsheimPro-Light.0a89fe38505661051946.ttf",
+    "static/media/GT-WalsheimPro-Regular.ttf": "/Banner/static/media/GT-WalsheimPro-Regular.1fd3cd7ade0f79b2152a.ttf",
+    "static/media/GT-WalsheimPro-Medium.ttf": "/Banner/static/media/GT-WalsheimPro-Medium.bc56cfc10feb515d6622.ttf",
+    "static/media/image8.png": "/Banner/static/media/image8.00864baa35fd3e2b243d.png",
+    "static/media/image10.png": "/Banner/static/media/image10.5ba59be7db5c62ec945c.png",
+    "static/media/image9.png": "/Banner/static/media/image9.0ba97b2a44067517f114.png",
+    "static/media/image1.png": "/Banner/static/media/image1.78eac9e991d6ff7592e8.png",
+    "static/media/image3.png": "/Banner/static/media/image3.8a2f23479ca0d49a2730.png",
+    "static/media/image7.png": "/Banner/static/media/image7.98c78d7e4497eea2b819.png",
+    "static/media/image6.png": "/Banner/static/media/image6.2aba1f669c4c360584b3.png",
+    "static/media/image2.png": "/Banner/static/media/image2.dd3a8204188694523fc2.png",
+    "index.html": "/Banner/index.html",
+    "main.ced1e12c.css.map": "/Banner/static/css/main.ced1e12c.css.map",
+    "main.c9ade469.js.map": "/Banner/static/js/main.c9ade469.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ced1e12c.css",
+    "static/js/main.c9ade469.js"
+  ]
+}
